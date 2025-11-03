@@ -23,15 +23,14 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ## 📂 Diagrama
 
-- [Diagrama UpDesk](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/UML_upDesk.asta)
+- [Diagrama UpDesk](https://github.com/flp07/UpDesk_Filipe/blob/main/GIT_EGYDIO%20(1)/UML_upDesk.asta)
 
 ## BACKLOG DE PRODUTO <a id="backlog-do-produto"></a>
-- [Backlog do UpDesk](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/BACKLOG.md)
-
+- [Backlog do UpDesk](https://github.com/flp07/UpDesk_Filipe/blob/main/GIT_EGYDIO%20(1)/BACKLOG.md)
 ---
 
 ## CRONOGRAMA DE EVOLUÇÃO <a id="cronograma-de-evolucao"></a>
-- [Cronograma de evolução UpDesk](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Cronograma%20de%20Evolucao.md)
+- [Cronograma de evolução UpDesk](https://github.com/flp07/UpDesk_Filipe/blob/main/GIT_EGYDIO%20(1)/Cronograma%20de%20Evolucao.md)
 
 ---
 
@@ -47,53 +46,52 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 | **02/09/2025** | **Desenvolvimento Web (Front-End)** | Desenvolvimento do painel de triagem.<br>Desenvolvimento do card de dados do chamado.<br>Desenvolvimento do card de dados do chamado na triagem.<br>Desenvolvimento do card para aprovar ações da IA.<br>Desenvolvimento do card de prioridade do chamado.<br>Desenvolvimento do card de confirmação de transferência de chamado.<br>Desenvolvimento do card de feedback de transferência de chamado.<br>Implementação do painel de visualização de chamados.<br>Desenvolvimento do card de informações dos chamados. |
 ---
 
-### [Clique aqui para o cronograma](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/sprintPlanning.md)
+### [Clique aqui para o cronograma](https://github.com/flp07/UpDesk_Filipe/blob/main/GIT_EGYDIO%20(1)/sprintPlanning.md)
 
 ## Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a>
 
-- [Tecnologias Utilizadas](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Tecnologias-utilizadas.md)
-
+- [Tecnologias Utilizadas](https://github.com/flp07/UpDesk_Filipe/blob/main/GIT_EGYDIO%20(1)/Tecnologias-utilizadas.md)
 ---
 
 ## 📂 Estrutura do Projeto <a id="estrutura-de-pastas"></a>
    
-- [Estrutura das pastas](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Estrutura%20das%20pastas.md)
+- [Estrutura das pastas](https://github.com/flp07/UpDesk_Filipe/blob/main/GIT_EGYDIO%20(1)/Estrutura%20das%20pastas.md)
 
 ---
 
 ## ▶️ Como Executar, Usar e Testar o Projeto <a id="como-rodar-o-projeto"></a>
 
-- [Como executar o projeto](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Executar%20projeto.md)
+- [Como executar o projeto](https://github.com/flp07/UpDesk_Filipe/blob/main/GIT_EGYDIO%20(1)/Executar%20projeto.md)
 
 ---
 
 ## Pasta de documentação <a id="documentacao"></a>
 
-- [Pasta da documentacao](https://github.com/JonatasSantos42/UpDesk_Jonatas/tree/main/Documentos/Documenta%C3%A7%C3%A3o%20PIM)
+- [Pasta da documentacao](https://github.com/flp07/UpDesk_Filipe/tree/main/GIT_EGYDIO%20(1)/Documenta%C3%A7%C3%A3o%20PIM/Documenta%C3%A7%C3%A3o%20PIM)
 
 ---
 
 # 👨🏾‍💻 Equipe <a id="equipe"></a>
 | Nome                    | Papel                  | GitHub                                  |                                             
 | ----------------------- | ---------------------- | --------------------------------------- |
-| Filipe Vitor dos Santos | PO                     | [GitHub](https://github.com/JonatasSantos42/)| 
+| Filipe Vitor dos Santos | DEV                    | [GitHub](https://github.com/flp07)| 
 ---
 
 ## ✅ DoR (Definition of Ready)
 
-- [DoR (Definition of Ready)](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/DoR%20(Definition%20of%20Ready).md)
+- [DoR (Definition of Ready)](https://github.com/flp07/UpDesk_Filipe/blob/main/GIT_EGYDIO%20(1)/DoR%20(Definition%20of%20Ready).md)
 
 ---
 
 ## ✅ DoD (Definition of Done)
 
-- [DoD (Definition of Done)](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/DOD.md)
+- [DoD (Definition of Done)](https://github.com/flp07/UpDesk_Filipe/blob/main/GIT_EGYDIO%20(1)/DOD.md)
 
 ---
 
 ## 📘 Manual do Usuário <a id="manual"></a>
 
-- [Manual de Usuário](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/670370a120b2359a47f794de32835718a358c27a/Documentos/Manual%20do%20Usu%C3%A1rio.docx)
+- [Manual de Usuário](https://github.com/flp07/UpDesk_Filipe/blob/main/GIT_EGYDIO%20(1)/Manual%20do%20Usu%C3%A1rio.docx)
 
 
 ---
